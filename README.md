@@ -17,8 +17,6 @@
 
   <br>
 
-    <h2></h2><br>
-
     <p align="center">
       <samp>
         [<a href="mailto:carlos@carlosmoshu.com">e-mail</a>]
@@ -28,8 +26,6 @@
         [<a href="https://www.carlosmoshu.com">web</a>]
       </samp>
     </p>
-
-    <h2></h2><br>
 
         <a href="#--------">
           <img src="https://komarev.com/ghpvc/?username=carlosmoshudev&label=Profile+Views&color=grey"
