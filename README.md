@@ -16,9 +16,9 @@
     </samp>
   </p>
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=carlosmoshudev&label=Profile+Views&color=blueviolet" alt="carlosmoshudev" />
+    <img src="https://komarev.com/ghpvc/?username=carlosmoshudev&label=Visitantes&color=blueviolet" alt="visitantes" />
         <a href="https://discord.gg/xjgdPqHtRp">
-      <img src="https://shields.io/discord/761964233055273000?label=Discord&logo=Discord&colorB=7289DA&style=flat"
+      <img src="https://shields.io/discord/761964233055273000?label=Servidor&logo=Discord&colorB=7289DA&style=flat"
         alt="Discord" />
     </a>
   </p>
