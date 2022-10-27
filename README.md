@@ -14,17 +14,6 @@
         <br>
     </samp>
   </p>
-
-  <br>
-
-    <p align="center">
-        [<a href="mailto:carlos@carlosmoshu.com">e-mail</a>]
-        [<a href="https://www.linkedin.com/in/carlos-moshu/">linkedin</a>]
-        [<a href="https://twitter.com/CarlosMoshu">twitter</a>]
-        [<a href="https://www.twitch.tv/carlosmoshutv">twitch</a>]
-        [<a href="https://www.carlosmoshu.com">web</a>]
-    </p>
-
         <a href="#--------">
           <img src="https://komarev.com/ghpvc/?username=carlosmoshudev&label=Profile+Views&color=grey"
             alt="profile views" />
