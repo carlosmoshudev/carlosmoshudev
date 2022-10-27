@@ -17,6 +17,7 @@
   </p>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=carlosmoshudev&label=Profile+Views&color=blueviolet" alt="carlosmoshudev" />
+    <img src="https://img.shields.io/github/followers/carlosmoshudev?style=social" alt="carlosmoshudev" />
   </p>
 
 </div>
