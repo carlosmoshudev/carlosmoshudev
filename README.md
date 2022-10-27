@@ -40,6 +40,21 @@
       <img src="https://img.shields.io/github/stars/carlosmoshudev?label=Stars&logo=GitHub&style=flat&colorB=blue"
         alt="GitHub" />
     </a>
+      <!--Github Forks-->
+    <a href="https://github.com/carlosmoshudev">
+      <img src="https://img.shields.io/github/forks/carlosmoshudev?label=Forks&logo=GitHub&style=flat&colorB=blue"
+        alt="GitHub" />
+    </a>
+    <!--Github Repos-->
+    <a href="https://github.com/carlosmoshudev">
+      <img src="https://img.shields.io/github/repo-size/carlosmoshudev?label=Repos&logo=GitHub&style=flat&colorB=blue"
+        alt="GitHub" />
+    </a>
+    <!--Github Commits-->
+    <a href="https://github.com/carlosmoshudev">
+      <img src="https://img.shields.io/github/commit-activity/m/carlosmoshudev?label=Commits&logo=GitHub&style=flat&colorB=blue"
+        alt="GitHub" />
+    </a>
   </p>
 
 </div>
