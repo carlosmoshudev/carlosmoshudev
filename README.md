@@ -24,8 +24,6 @@
       </samp>
     </p>
 
-    <h2></h2><br>
-
     <p align="center">
       <samp>
         <a href="#--------">
