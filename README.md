@@ -32,6 +32,10 @@
       <img src="https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white"
         alt="Twitch" />
     </a>
+        <a href="https://github.com/carlosmoshudev">
+      <img src="https://img.shields.io/github/followers/carlosmoshudev?label=Followers&logo=GitHub&style=flat&colorB=blue"
+        alt="GitHub" />
+    </a>
   </p>
 
 </div>
