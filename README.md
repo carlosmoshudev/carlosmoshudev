@@ -43,4 +43,15 @@
       <img src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white" alt="Twitch" />
     </a>
   </p>
+  <!-- GitHub Stats -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=carlosmoshudev&show_icons=true&theme=dark&count_private=true"
+      alt="GitHub Stats" />
+  </p>
+  <!-- GitHub Languages -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmoshudev&layout=compact&theme=dark"
+      alt="GitHub Languages" />
+  </p>
+  
 </div>
