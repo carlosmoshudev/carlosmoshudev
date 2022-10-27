@@ -14,15 +14,15 @@
         <br>
     </samp>
   </p>
-    <p align="center">
-      <samp>
-        [<a href="mailto:carlos@carlosmoshu.com">e-mail</a>]
-        [<a href="https://www.linkedin.com/in/carlos-moshu/">linkedin</a>]
-        [<a href="https://twitter.com/CarlosMoshu">twitter</a>]
-        [<a href="https://www.twitch.tv/carlosmoshutv">twitch</a>]
-        [<a href="https://www.carlosmoshu.com">web</a>]
-      </samp>
-    </p>
+  <p align="center">
+    <samp>
+      [<a href="mailto:carlos@carlosmoshu.com">e-mail</a>]
+      [<a href="https://www.linkedin.com/in/carlos-moshu/">linkedin</a>]
+      [<a href="https://twitter.com/CarlosMoshu">twitter</a>]
+      [<a href="https://www.twitch.tv/carlosmoshutv">twitch</a>]
+      [<a href="https://www.carlosmoshu.com">web</a>]
+    </samp>
+  </p>
 
     <p align="center">
       <samp>
