@@ -14,6 +14,32 @@
         <br>
     </samp>
   </p>
+
+  <br>
+
+  <details>
+    <summary><samp><b>Ver más</b></samp></summary>
+
+    <h2></h2><br>
+
+    <p align="center">
+      <samp>
+        [<a href="mailto:carlos@carlosmoshu.com">e-mail</a>]
+        [<a href="https://www.linkedin.com/in/carlos-moshu/">linkedin</a>]
+        [<a href="https://twitter.com/CarlosMoshu">twitter</a>]
+        [<a href="https://www.twitch.tv/carlosmoshutv">twitch</a>]
+        [<a href="https://www.carlosmoshu.com">web</a>]
+      </samp>
+    </p>
+
+    <h2></h2><br>
+
+        <a href="#--------">
+          <img src="https://komarev.com/ghpvc/?username=carlosmoshudev&label=Profile+Views&color=grey"
+            alt="profile views" />
+        </a>
+
+    <div align="center">
       <table>
         <tr>
           <td><a href="#--------"><img align="center" alt="GitHub Trophy"
@@ -21,6 +47,7 @@
           </td>
         </tr>
       </table>
+    </div>
 
     <div align="center">
       <table>
@@ -34,4 +61,6 @@
         </tr>
       </table>
     </div>
+
+  </details>
 </div>
