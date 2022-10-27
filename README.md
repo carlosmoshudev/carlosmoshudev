@@ -24,15 +24,6 @@
     </samp>
   </p>
 
-    <p align="center">
-      <samp>
-        <a href="#--------">
-          <img src="https://komarev.com/ghpvc/?username=carlosmoshudev&label=Profile+Views&color=grey"
-            alt="profile views" />
-        </a>
-      </samp>
-    </p>
-
     <div align="center">
       <table>
         <tr>
