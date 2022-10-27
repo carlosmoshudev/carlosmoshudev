@@ -36,6 +36,10 @@
       <img src="https://img.shields.io/github/followers/carlosmoshudev?label=Followers&logo=GitHub&style=flat&colorB=blue"
         alt="GitHub" />
     </a>
+    <a href="https://github.com/carlosmoshudev">
+      <img src="https://img.shields.io/github/stars/carlosmoshudev?label=Stars&logo=GitHub&style=flat&colorB=blue"
+        alt="GitHub" />
+    </a>
   </p>
 
 </div>
