@@ -25,6 +25,14 @@
       <img src="https://img.shields.io/twitter/follow/carlosmoshu?label=Twitter&logo=twitter&style=flat&colorB=blue"
         alt="Twitter" />
     </a>
+        <a href="https://www.linkedin.com/in/carlos-moshu/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"
+        alt="LinkedIn" />
+    </a>
+        <a href="https://www.twitch.tv/carlosmoshutv">
+      <img src="https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white"
+        alt="Twitch" />
+    </a>
   </p>
 
 </div>
