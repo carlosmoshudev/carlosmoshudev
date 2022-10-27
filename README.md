@@ -16,11 +16,11 @@
   </p>
   <p align="center">
     <a href="https://github.com/carlosmoshudev">
-    <img src="https://komarev.com/ghpvc/?username=carlosmoshudev&label=Visitantes&logo=GitHub&color=blueviolet" alt="visitantes" />
+      <img src="https://komarev.com/ghpvc/?username=carlosmoshudev&label=Visitantes&logo=GitHub&color=blueviolet"
+        alt="visitantes" />
     </a>
-        <a href="https://github.com/carlosmoshudev">
-      <img
-        src="https://img.shields.io/github/followers/carlosmoshudev?label=Seguidores&logo=GitHub&colorB=blueviolet"
+    <a href="https://github.com/carlosmoshudev">
+      <img src="https://img.shields.io/github/followers/carlosmoshudev?label=Seguidores&logo=GitHub&colorB=blueviolet"
         alt="seguidores" />
     </a>
     <a href="https://github.com/carlosmoshudev">
@@ -33,7 +33,7 @@
         alt="Discord" />
     </a>
     <a href="https://twitter.com/carlosmoshu">
-      <img src="https://img.shields.io/twitter/follow/carlosmoshu?label=Twitter&logo=twitter&colorB=blue"
+      <img src="https://img.shields.io/twitter/follow/carlosmoshu?label=Twitter&logo=twitter&colorB=blue&style=flat"
         alt="Twitter" />
     </a>
     <a href="https://www.linkedin.com/in/carlos-moshu/">
