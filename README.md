@@ -18,11 +18,6 @@
 
   <br>
 
-  <details>
-    <summary><samp><b>Ver más</b></samp></summary>
-
-    <h2></h2><br>
-
     <p align="center">
       <samp>
         [<a href="mailto:carlos@carlosmoshu.com">e-mail</a>]
@@ -33,8 +28,6 @@
       </samp>
     </p>
 
-    <h2></h2><br>
-
     <p align="center">
       <samp>
         <a href="#--------">
@@ -43,7 +36,6 @@
       </samp>
     </p>
 
-    <div align="center">
       <table>
         <tr>
           <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats"
@@ -54,7 +46,5 @@
           </td>
         </tr>
       </table>
-    </div>
 
-  </details>
 </div>
