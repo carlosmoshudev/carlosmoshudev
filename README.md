@@ -17,9 +17,6 @@
 
   <br>
 
-  <details>
-    <summary><samp><b>Ver más</b></samp></summary>
-
     <h2></h2><br>
 
     <p align="center">
@@ -61,6 +58,4 @@
         </tr>
       </table>
     </div>
-
-  </details>
 </div>
