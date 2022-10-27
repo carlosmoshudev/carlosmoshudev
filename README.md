@@ -18,7 +18,7 @@
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=carlosmoshudev&label=Visitantes&color=blueviolet" alt="visitantes" />
         <a href="https://discord.gg/xjgdPqHtRp">
-      <img src="https://shields.io/discord/761964233055273000?label=Servidor&logo=Discord&colorB=6289FA&style=flat"
+      <img src="https://shields.io/discord/761964233055273000?label=Servidor&logo=Discord&colorB=7289DA&style=flat"
         alt="Discord" />
     </a>
     <a href="https://twitter.com/carlosmoshu">
