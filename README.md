@@ -14,19 +14,14 @@
         <br>
     </samp>
   </p>
-        <a href="#--------">
-          <img src="https://komarev.com/ghpvc/?username=carlosmoshudev&label=Profile+Views&color=grey"
-            alt="profile views" />
-        </a>
-
-    <div align="center">
-      <table>
-        <tr>
-          <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=carlosmoshudev&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord" /></a>
+  <a href="#--------">
+    <img src="https://komarev.com/ghpvc/?username=carlosmoshudev&label=Profile+Views&color=grey" alt="profile views" />
+  </a>
+  <table>
+    <tr>
+      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/apiusername=carlosmoshudev&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord" /></a>
           </td>
-          <td><a href="#--------"><img height="137px" align="center" alt="Top Language"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmoshudev&layout=compact&line_height=21&hide_border=true&theme=nord" /></a>
+          <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmoshudev&layout=compact&line_height=21&hide_border=true&theme=nord" /></a>
           </td>
         </tr>
       </table>
