@@ -14,9 +14,6 @@
         <br>
     </samp>
   </p>
-  <p> test </p>
-
-    <div align="center">
       <table>
         <tr>
           <td><a href="#--------"><img align="center" alt="GitHub Trophy"
@@ -24,7 +21,6 @@
           </td>
         </tr>
       </table>
-    </div>
 
     <div align="center">
       <table>
