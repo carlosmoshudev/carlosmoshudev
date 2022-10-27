@@ -2,12 +2,7 @@
   <p align="center">
     <samp>
       <b>
-        Muy buenas!!
-        <br>
-        <br>
-        Soy Carlos Moshu y me dedico a la tecnología.
-        <br>
-        Sistemas, Redes, Desarrollo
+        Muy buenas!! Soy Carlos Moshu y me dedico a la tecnología.
         <br>
         <br>
         <code><img height="20" alt="csharp" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
