@@ -16,30 +16,31 @@
   </p>
   <p align="center">
     <a href="https://github.com/carlosmoshudev">
-    <img src="https://komarev.com/ghpvc/?username=carlosmoshudev&label=Visitantes&logo=GitHub&colorB=blueviolet&style=flat" alt="visitantes" />
+    <img src="https://komarev.com/ghpvc/?username=carlosmoshudev&label=Visitantes&logo=GitHub&color=blueviolet" alt="visitantes" />
     </a>
         <a href="https://github.com/carlosmoshudev">
       <img
-        src="https://img.shields.io/github/followers/carlosmoshudev?label=Seguidores&logo=GitHub&style=flat&colorB=blueviolet"
+        src="https://img.shields.io/github/followers/carlosmoshudev?label=Seguidores&logo=GitHub&colorB=blueviolet"
         alt="seguidores" />
     </a>
     <a href="https://github.com/carlosmoshudev">
-      <img src="https://img.shields.io/github/stars/carlosmoshudev?label=Stars&logo=GitHub&style=flat&colorB=blueviolet"
+      <img src="https://img.shields.io/github/stars/carlosmoshudev?label=Stars&logo=GitHub&colorB=blueviolet"
         alt="GitHub" />
     </a>
+    <br>
     <a href="https://discord.gg/xjgdPqHtRp">
-      <img src="https://shields.io/discord/761964233055273000?label=Servidor&logo=Discord&colorB=7289DA&style=flat"
+      <img src="https://shields.io/discord/761964233055273000?label=Servidor&logo=Discord&colorB=7289DA"
         alt="Discord" />
     </a>
     <a href="https://twitter.com/carlosmoshu">
-      <img src="https://img.shields.io/twitter/follow/carlosmoshu?label=Twitter&logo=twitter&style=flat&colorB=blue"
+      <img src="https://img.shields.io/twitter/follow/carlosmoshu?label=Twitter&logo=twitter&colorB=blue"
         alt="Twitter" />
     </a>
     <a href="https://www.linkedin.com/in/carlos-moshu/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&labelColor=blue" alt="LinkedIn" />
     </a>
     <a href="https://www.twitch.tv/carlosmoshutv">
-      <img src="https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white" alt="Twitch" />
+      <img src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white" alt="Twitch" />
     </a>
   </p>
 </div>
