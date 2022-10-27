@@ -14,12 +14,6 @@
         <br>
     </samp>
   </p>
-
-  <br>
-
-  <details>
-    <summary><samp><b>Ver más</b></samp></summary>
-
     <p align="center">
       <samp>
         [<a href="mailto:carlos@carlosmoshu.com">e-mail</a>]
@@ -63,6 +57,4 @@
         </tr>
       </table>
     </div>
-
-  </details>
 </div>
