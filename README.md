@@ -45,7 +45,7 @@
             <img src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white" alt="Twitch" />
         </a>
         <br />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmoshudev&langs_count=10&layout=compact&theme=github_dark"
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmoshudev&langs_count=10&layout=compact&theme=github_dark&hide_border=true&locale=es"
             alt="carlosmoshudev" />
     </p>
 </div>
