@@ -45,4 +45,5 @@
       <img src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white" alt="Twitch" />
     </a>
   </p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmoshudev&amp;layout=compact&amp;theme=default&amp;count_private=true&amp;hide_border=true&amp;custom_title=Leguajes+más+usados+en+GitHub&amp;langs_count=10" alt="GitHub Top Languages">
 </div>
