@@ -44,6 +44,6 @@
     <a href="https://www.twitch.tv/carlosmoshutv">
       <img src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white" alt="Twitch" />
     </a>
-    [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmoshudev)
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmoshudev" alt="Github top langs"
   </p>
 </div>
