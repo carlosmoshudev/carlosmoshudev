@@ -36,10 +36,6 @@
             <img src="https://shields.io/discord/761964233055273000?label=Servidor&logo=Discord&colorB=7289DA"
                 alt="Discord" />
         </a>
-        <a href="https://twitter.com/carlosmoshu">
-            <img src="https://img.shields.io/twitter/follow/carlosmoshu?label=Twitter&logo=twitter&colorB=blue&style=flat"
-                alt="Twitter" />
-        </a>
         <a href="https://www.linkedin.com/in/carlos-moshu/">
             <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&labelColor=blue" alt="LinkedIn" />
         </a>
