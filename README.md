@@ -48,8 +48,6 @@
     <a href="https://github.com/carlosmoshudev">
       <img src="https://img.shields.io/github/followers/carlosmoshudev?label=Seguidores&logo=GitHub&color=brightgreen" alt="Seguidores">
     </a>
-    <img src="https://img.shields.io/badge/QSC-Proyectos-Active-brightgreen" alt="QSC">
-    <img src="https://img.shields.io/badge/Crestron-Integraciones-blue" alt="Crestron">
   </p>
 
   <br>
