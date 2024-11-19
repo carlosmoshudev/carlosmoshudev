@@ -18,9 +18,12 @@
     <img height="38" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
     <img height="38" alt="Lua" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png">
     <img height="38" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-    <img height="38" alt="QSC" src="https://img.shields.io/badge/QSC-000000?style=flat-square&logo=qsc&logoColor=white">
-    <img height="38" alt="Crestron" src="https://img.shields.io/badge/Crestron-2B2D42?style=flat-square&logo=crestron&logoColor=white">
   </p>
+  <p>
+    <img height="38" alt="QSC" src="https://upload.wikimedia.org/wikipedia/commons/5/52/QSC_GmbH_Logo.svg">
+    <img height="38" alt="Crestron" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Crestron_logo.svg">
+  </p>
+
 
   <br>
 
@@ -52,9 +55,28 @@
 
   <br>
 
-  <!-- Elemento innovador: SVG dinámico -->
+  <!-- Elemento innovador-->
   <div align="center">
-    <img src="https://raw.githubusercontent.com/motioncanvas/motion/master/packages/editor/src/assets/demo.gif" width="500" alt="Tecnología en acción">
+     <div align="center">
+    <h3>🔧 Siempre en sincronía con la tecnología 🔧</h3>
+    <canvas id="clockCanvas" width="300" height="300"></canvas>
+    <script>
+        const canvas = document.getElementById('clockCanvas');
+        const ctx = canvas.getContext('2d');
+        setInterval(() => {
+            const now = new Date();
+            const [width, height] = [canvas.width / 2, canvas.height / 2];
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            ctx.font = "30px Arial";
+            ctx.textAlign = "center";
+            ctx.textBaseline = "middle";
+            ctx.fillStyle = "#68A4C9";
+            ctx.fillText(now.toLocaleTimeString(), width, height);
+        }, 1000);
+    </script>
+    <p><i>La tecnología no se detiene.</i></p>
+</div>
+
     <p><i>La tecnología no solo soluciona problemas; transforma realidades.</i></p>
   </div>
 
