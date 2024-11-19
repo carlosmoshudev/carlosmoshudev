@@ -45,13 +45,16 @@
   <br>
   <p>
     <a href="https://www.linkedin.com/in/carlos-moshu/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&labelColor=blue" alt="LinkedIn">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&labelColor=blue&style=plastic" alt="LinkedIn">
     </a>
     <a href="https://github.com/carlosmoshudev">
-      <img src="https://komarev.com/ghpvc/?username=carlosmoshudev&label=Visitantes&logo=GitHub&color=brightgreen" alt="Visitantes">
+      <img src="https://komarev.com/ghpvc/?username=carlosmoshudev&label=Visitantes&color=blue&style=plastic&abbreviated=true" alt="Visitantes">
     </a>
     <a href="https://github.com/carlosmoshudev">
-      <img src="https://img.shields.io/github/followers/carlosmoshudev?label=Seguidores&logo=GitHub" alt="Seguidores">
+      <img src="https://img.shields.io/github/followers/carlosmoshudev?label=Seguidores&logo=GitHub&style=plastic" alt="Seguidores">
+    </a>
+    <a href="https://github.com/carlosmoshudev">
+      <img src="https://img.shields.io/github/stars/carlosmoshudev?label=Estrellas&logo=GitHub&style=plastic" alt="Estrellas">
     </a>
   </p>
 </div>
