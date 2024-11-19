@@ -55,5 +55,5 @@
   <br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=carlosmoshudev&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="carlosmoshudev">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmoshudev&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Top Langs">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmoshudev&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Top Langs">
 </div>
