@@ -56,28 +56,27 @@
   <br>
 
   <!-- Elemento innovador-->
-  <div align="center">
-     <div align="center">
-    <h3>🔧 Siempre en sincronía con la tecnología 🔧</h3>
-    <canvas id="clockCanvas" width="300" height="300"></canvas>
-    <script>
-        const canvas = document.getElementById('clockCanvas');
-        const ctx = canvas.getContext('2d');
-        setInterval(() => {
-            const now = new Date();
-            const [width, height] = [canvas.width / 2, canvas.height / 2];
-            ctx.clearRect(0, 0, canvas.width, canvas.height);
-            ctx.font = "30px Arial";
-            ctx.textAlign = "center";
-            ctx.textBaseline = "middle";
-            ctx.fillStyle = "#68A4C9";
-            ctx.fillText(now.toLocaleTimeString(), width, height);
-        }, 1000);
-    </script>
-    <p><i>La tecnología no se detiene.</i></p>
-</div>
-
-    <p><i>La tecnología no solo soluciona problemas; transforma realidades.</i></p>
-  </div>
-
+<div align="center">
+    <h3>🛠️ Mis habilidades técnicas 🛠️</h3>
+    <div style="display: flex; justify-content: center; gap: 15px;">
+        <div style="text-align: center;">
+            <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(45deg, #68A4C9, #6791c9); line-height: 80px; color: white; font-size: 18px; font-weight: bold;">
+                Lua
+            </div>
+            <p>Automatización</p>
+        </div>
+        <div style="text-align: center;">
+            <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(45deg, #68A4C9, #6791c9); line-height: 80px; color: white; font-size: 18px; font-weight: bold;">
+                QSC
+            </div>
+            <p>Integración AV</p>
+        </div>
+        <div style="text-align: center;">
+            <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(45deg, #68A4C9, #6791c9); line-height: 80px; color: white; font-size: 18px; font-weight: bold;">
+                Crestron
+            </div>
+            <p>Control avanzado</p>
+        </div>
+    </div>
+    <p><i>Siempre aprendiendo, siempre mejorando.</i></p>
 </div>
