@@ -22,30 +22,30 @@
     </samp>
   </p>
   <p>
-    <img height="24" alt="QSC" src="./img/qsys.svg">
-    <img height="24" alt="Cres" src="./img/cres.svg">
-    <img height="24" alt="BS" src="./img/bs.svg">
+    <img height="24" alt="QSC" src="./assets/qsys.svg">
+    <img height="24" alt="Cres" src="./assets/cres.svg">
+    <img height="24" alt="BS" src="./assets/bs.svg">
   </p>
   <p>
-    <img height="40" alt="CPP" src="./img/cpp.svg">
-    <img height="40" alt="C#" src="./img/cs.svg">
-    <img height="40" alt="PS" src="./img/ps.svg">
-    <img height="40" alt="BASH" src="./img/bash.svg">
-    <img height="40" alt="JS" src="./img/js.svg">
-    <img height="40" alt="TS" src="./img/ts.svg">
-    <img height="40" alt="Lua" src="./img/lua.svg">
-    <img height="40" alt="Py" src="./img/py.svg">
-    <img height="40" alt="CSS" src="./img/css.svg">
-    <img height="40" alt="HTML" src="./img/html.svg">
+    <img height="40" alt="CPP" src="./assets/cpp.svg">
+    <img height="40" alt="C#" src="./assets/cs.svg">
+    <img height="40" alt="PS" src="./assets/ps.svg">
+    <img height="40" alt="BASH" src="./assets/bash.svg">
+    <img height="40" alt="JS" src="./assets/js.svg">
+    <img height="40" alt="TS" src="./assets/ts.svg">
+    <img height="40" alt="Lua" src="./assets/lua.svg">
+    <img height="40" alt="Py" src="./assets/py.svg">
+    <img height="40" alt="CSS" src="./assets/css.svg">
+    <img height="40" alt="HTML" src="./assets/html.svg">
   </p>
   <p>
-    <img height="40" alt="MSSQL" src="./img/mssql.svg">
-    <img height="40" alt="MYSQL" src="./img/mysql.svg">
-    <img height="40" alt=".NET" src="./img/net.svg">
-    <img height="40" alt="XAMPP" src="./img/xampp.svg">
-    <img height="40" alt="Node" src="./img/node.svg">
-    <img height="40" alt="React" src="./img/react.svg">
-    <img height="40" alt="Svelte" src="./img/svelte.svg">
+    <img height="40" alt="MSSQL" src="./assets/mssql.svg">
+    <img height="40" alt="MYSQL" src="./assets/mysql.svg">
+    <img height="40" alt=".NET" src="./assets/net.svg">
+    <img height="40" alt="XAMPP" src="./assets/xampp.svg">
+    <img height="40" alt="Node" src="./assets/node.svg">
+    <img height="40" alt="React" src="./assets/react.svg">
+    <img height="40" alt="Svelte" src="./assets/svelte.svg">
   </p>
 
   <br><br>
